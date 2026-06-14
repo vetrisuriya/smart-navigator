@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vetrisuriya.github.io/smart-navigator/sitemap.xml
