@@ -1,0 +1,12 @@
+Smart Navigator Privacy Policy
+Last updated: June 2026
+
+Smart Navigator does not collect, transmit, or share any personal data.
+
+All data stored by this extension (widget position, visibility preference, recent search terms)
+is stored locally on your device using chrome.storage.local and is never sent to any server.
+
+The extension reads page content only to perform local text search at your explicit request.
+This content is never stored or transmitted.
+
+For questions, contact: rvetrisuriya@gmail.com
